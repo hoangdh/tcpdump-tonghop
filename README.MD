@@ -207,14 +207,9 @@ Dưới đây là ví dụ, bắt 10 gói tin theo UDP hoặc TCP sử dụng Po
 #### 6. Nguồn Tổng hợp và tham khảo
 ##### Tổng hợp từ các bài viết
 
-- Đào Huy Hoàng: https://github.com/hoangdh/tcpdump
-- Nguyễn Tiến Huy: https://github.com/huynt2016/tcpdump
-- Kiều Tùng Lâm: https://github.com/kieulam141/TCPdump
-- Vũ Xuân Lộc: https://github.com/locvx1234/tcpdump
-- Nguyễn Nam Phong: https://github.com/phong041294/TCPDUMP
+
 
 ##### Tham khảo
-
 - http://www.tcpdump.org/manpages/tcpdump.1.html#lbAD
 - http://www.thegeekstuff.com/2010/08/tcpdump-command-examples/
 - https://vinahost.vn/ac/knowledgebase/248/TCPDUMP-va-cac-th-thut-s-dng.html
