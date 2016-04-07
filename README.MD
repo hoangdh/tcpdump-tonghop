@@ -1,3 +1,5 @@
+## Tổng quan về tcpdump
+
 #### 1.	Khái niệm
 
 `tcpdump` là phần mềm bắt gói tin trong mạng, làm việc trên hầu hết các phiên bản hệ điều hành Unix/Linux. Nó có thể bắt và lọc các gói tin TCP/IP được truyền trên mạng qua card mạng nào đó. `tcpdump` có tùy chọn để lưu ra file và đọc bằng công cụ đồ họa Wireshark.
